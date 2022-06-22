@@ -1,6 +1,6 @@
 # TXTtoCSV
 
-Jupyter notebook based file type converter from semi-formatted TXT to formatted CSV file. This notebook was used for automating large number of text files conversions which would be tedious manually. Also, The repository sample data TXT file with sample output.
+Jupyter notebook based file type converter from semi-formatted TXT to formatted CSV file. This notebook was used for automating large number of text files conversions which would be tedious manually. Also, The repository contains sample data TXT file with sample output.
 
 ### Sample TXT Image
 
